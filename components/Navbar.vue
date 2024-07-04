@@ -19,17 +19,8 @@
 </template>
 
 <script>
-import $ from "jquery";
-
 export default {
-  mounted() {
-    $(document).ready(function () {
-      $(".menu-btn").click(function () {
-        $(".navbar .menu").toggleClass("active");
-        $(".navbar i").toggleClass("active");
-      });
-    });
-  },
+  name: "Navbar",
 };
 </script>
 

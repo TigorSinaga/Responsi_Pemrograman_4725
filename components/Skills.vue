@@ -4,7 +4,7 @@
       <h2 class="title">Keahlian Saya</h2>
       <div class="skills-content">
         <div class="column left">
-          <div class="text">Keahlian saya dan pengalaman.</div>
+          <div class="text">Keahlian dan Pengalaman Saya.</div>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, vero aut repellat, ex sint modi, error voluptatibus dolore amet consequuntur exercitationem fugiat quo! Rem eligendi ad laborum sint inventore beatae odit et in
             aspernatur adipisci repellat consequatur neque blanditiis ea natus dolore deleniti voluptas, dolorum quidem quia voluptatibus optio magni.
